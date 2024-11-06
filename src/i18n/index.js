@@ -3,7 +3,7 @@ import { getStoredLocale } from '../utils/utils'
 import locales from './locales.js'
 
 const locale = getStoredLocale()
-const DEFAULT_LOCALE = 'de-DE'
+const DEFAULT_LOCALE = 'en-US'
 
 const i18n = createI18n({
   locale: locale || DEFAULT_LOCALE,
