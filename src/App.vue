@@ -6,16 +6,6 @@
     @toggleMobileNavigation="toggleMobileNavigation" />
 
   <main>
-    <div class="container" style="margin-bottom: 1.5rem">
-      <AlertComponent>
-        The tracker 187 is currently in active development and may have bugs or incomplete features. If
-        you encounter any issues, please
-        <a href="https://github.com/carlssonemil/nebula/issues/new?title=[Bug]%20" target="_blank"
-          >report it in GitHub</a
-        >. We are aware of missing camouflage images and incorrect requirements. Thank you for your
-        understanding, and happy grinding!
-      </AlertComponent>
-    </div>
 
     <router-view v-slot="{ Component }">
       <transition name="page-fade" mode="out-in">
