@@ -59,199 +59,200 @@
         "en-US": "Englisch",
         "de-DE": "Deutsch"
     },
-"pages": {
-    "404": {
-        "description": "Ups, es sieht so aus, als wärst du {0}.",
-        "scenarios": [
-            "falsch in Nuketown abgebogen und auf einer fehlenden Seite gelandet 🏘️",
-            "beim Respawn hängen geblieben und auf einer fehlenden Seite gelandet 💥",
-            "hast versucht, die URL zu quickscopen und bist auf einer fehlenden Seite gelandet 🔭",
-            "Dead Silence zu gut eingesetzt und auf einer fehlenden Seite gelandet 🚫🔊",
-            "in einen Glitch gefallen und auf einer fehlenden Seite gelandet 🕳️",
-            "im Menü geblendet und auf einer fehlenden Seite gelandet ⚡",
-            "zuletzt in Verdansk gesehen und auf einer fehlenden Seite gelandet 🪂",
-            "im Gulag gefangen und auf einer fehlenden Seite gelandet 🚿",
-            "an einer flachen Seite wallrun versucht und auf einer fehlenden Seite gelandet 🏃‍♂️",
-            "das falsche Loadout erwischt und auf einer fehlenden Seite gelandet 📦",
-            "im Kreuzfeuer zwischen Seiten gefangen und auf einer fehlenden Seite gelandet 🔫",
-            "Captain Price in eine geheime Mission gefolgt und auf einer fehlenden Seite gelandet 🕵️",
-            "kein UAV benutzt und verloren gegangen, auf einer fehlenden Seite gelandet 🛰️",
-            "ohne Hubschrauber exfiltrieren wollen und auf einer fehlenden Seite gelandet 🚁",
-            "den geheimen Tunnel zu den Zombies genommen und auf einer fehlenden Seite gelandet 🧟‍♂️",
-            "den Anruf... of Duty verpasst und auf einer fehlenden Seite gelandet 📞",
-            "versucht, einen nicht existierenden Cache zu plündern und auf einer fehlenden Seite gelandet 💼",
-            "in unbekanntes Gebiet abgesprungen und auf einer fehlenden Seite gelandet 🗺️",
-            "versucht, Ghost zu treffen und auf einer fehlenden Seite gelandet 👻",
-            "an der falschen Stelle nach Easter Eggs gesucht und auf einer fehlenden Seite gelandet 🥚"
-        ],
-        "link": "Zurück zur Startseite"
-    }
-},
-"about": {
-    "features": {
-        "autosaving": {
-            "title": "Automatisches Speichern",
-            "description": "Dein Fortschritt wird automatisch gespeichert. Kein Konto erforderlich."
-        },
-        "responsive": {
-            "title": "Anpassungsfähig",
-            "description": "Der Tracker funktioniert auf allen Geräten, vom Desktop bis zum Handy."
-        },
-        "export_import": {
-            "title": "Export/Import",
-            "description": "Exportiere deinen Fortschritt in eine Datei und importiere ihn auf einem anderen Gerät."
-        },
-        "filterable": {
-            "title": "Filterbar",
-            "description": "Wechsle einfach zwischen Waffenkategorien und schalte Abgeschlossenes ein/aus."
-        },
-        "ad_free": {
-            "title": "Werbefrei",
-            "description": "Keine störenden Anzeigen auf der Seite. Jetzt nicht, und auch nie."
+    "pages": {
+        "404": {
+            "description": "Ups, es sieht so aus, als wärst du {0}.",
+            "scenarios": [
+                "falsch in Nuketown abgebogen und auf einer fehlenden Seite gelandet 🏘️",
+                "beim Respawn hängen geblieben und auf einer fehlenden Seite gelandet 💥",
+                "hast versucht, die URL zu quickscopen und bist auf einer fehlenden Seite gelandet 🔭",
+                "Dead Silence zu gut eingesetzt und auf einer fehlenden Seite gelandet 🚫🔊",
+                "in einen Glitch gefallen und auf einer fehlenden Seite gelandet 🕳️",
+                "im Menü geblendet und auf einer fehlenden Seite gelandet ⚡",
+                "zuletzt in Verdansk gesehen und auf einer fehlenden Seite gelandet 🪂",
+                "im Gulag gefangen und auf einer fehlenden Seite gelandet 🚿",
+                "an einer flachen Seite wallrun versucht und auf einer fehlenden Seite gelandet 🏃‍♂️",
+                "das falsche Loadout erwischt und auf einer fehlenden Seite gelandet 📦",
+                "im Kreuzfeuer zwischen Seiten gefangen und auf einer fehlenden Seite gelandet 🔫",
+                "Captain Price in eine geheime Mission gefolgt und auf einer fehlenden Seite gelandet 🕵️",
+                "kein UAV benutzt und verloren gegangen, auf einer fehlenden Seite gelandet 🛰️",
+                "ohne Hubschrauber exfiltrieren wollen und auf einer fehlenden Seite gelandet 🚁",
+                "den geheimen Tunnel zu den Zombies genommen und auf einer fehlenden Seite gelandet 🧟‍♂️",
+                "den Anruf... of Duty verpasst und auf einer fehlenden Seite gelandet 📞",
+                "versucht, einen nicht existierenden Cache zu plündern und auf einer fehlenden Seite gelandet 💼",
+                "in unbekanntes Gebiet abgesprungen und auf einer fehlenden Seite gelandet 🗺️",
+                "versucht, Ghost zu treffen und auf einer fehlenden Seite gelandet 👻",
+                "an der falschen Stelle nach Easter Eggs gesucht und auf einer fehlenden Seite gelandet 🥚"
+            ],
+            "link": "Zurück zur Startseite"
         }
     },
-    "open_source_description": "Erstellt mit {0}, gehostet auf {1} und analysiert durch {2}. Der Code für diese Seite ist auf {3} verfügbar.",
-    "open_source": "Open Source",
-    "previous_trackers_description": "Suchst du nach Tarn-Trackern für frühere Call of Duty Spiele seit 2019?",
-    "previous_trackers": "Frühere Tracker",
-    "subtitle": "Verfolge deinen Fortschritt zu den Tarnungen Dark Matter, Nebula und Abyss mit diesem benutzerfreundlichen Tracker.",
-    "support_me_description": "Du kannst mich unterstützen, indem du {0} 🍺, ich würde es sehr schätzen!",
-    "support_me_link": "mir ein Bier spendierst",
-    "support_me": "Unterstütze mich",
-    "title": "Einfach, leicht & intuitiv"
-},
-"calling_cards": {
-    "completed_in_category": "Visitenkarten in der Kategorie abgeschlossen",
-    "empty_search": "Deine Suche ergab keine Visitenkarten 🤔",
-    "finished_placeholder": "Du hast alle Visitenkarten-Herausforderungen abgeschlossen 👏"
-},
-"mastery": {
-    "completed_modal": {
-        "body": "Glückwunsch zum Abschluss aller Meisterschaftsherausforderungen! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
-        "support_link": "mir ein Bier zu spendieren",
-        "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
-        "title": "Meisterschaftsherausforderungen abgeschlossen 👏🥳"
-    },
-    "info": "Sobald du jede Meisterschaftstarnung freigeschaltet hast, wird eine Meisterschaftsherausforderung freigeschaltet, die eine bestimmte Anzahl von Abschüssen mit der jeweiligen Tarnung erfordert, um sie abzuschließen.",
-    "progress": {
-        "label": "Fortschritt der Meisterschaft",
-        "tooltip": "Fortschritt zum Abschluss aller Meisterschaftsherausforderungen"
-    }
-},
-"requirements": {
-    "checklist": {
-        "military": "Militärtarnungen auf 33 Waffen",
-        "special": "Spezialtarnungen auf 33 Waffen",
-        "gold": "Goldtarnung auf 33 Waffen",
-        "diamond": "Diamanttarnung auf 33 Waffen",
-        "dark_spine": "Dark-Spine-Tarnung auf 33 Waffen"
-    },
-    "description": "Um eine Meisterschaftstarnung freizuschalten, musst du die vorherige Tarnungsstufe freischalten. Um beispielsweise die Dark Matter Tarnung freizuschalten, müssen folgende Anforderungen erfüllt sein: {checklist} Mit dem Fortschritt durch die Tarnungsstufen schaltest du die nächste Stufe frei:",
-    "stages": {
-        "military": "Militär",
-        "special": "Spezial",
-        "gold": "Gold",
-        "diamond": "Diamant",
-        "dark_spine": "Dark Spine",
-        "dark_matter": "Dark Matter"
-    },
-    "table": {
-        "headers": {
-            "requirement": "Anforderung",
-            "stage": "Stufe"
+    "about": {
+        "features": {
+            "autosaving": {
+                "title": "Automatisches Speichern",
+                "description": "Dein Fortschritt wird automatisch gespeichert. Kein Konto erforderlich."
+            },
+            "responsive": {
+                "title": "Anpassungsfähig",
+                "description": "Der Tracker funktioniert auf allen Geräten, vom Desktop bis zum Handy."
+            },
+            "export_import": {
+                "title": "Export/Import",
+                "description": "Exportiere deinen Fortschritt in eine Datei und importiere ihn auf einem anderen Gerät."
+            },
+            "filterable": {
+                "title": "Filterbar",
+                "description": "Wechsle einfach zwischen Waffenkategorien und schalte Abgeschlossenes ein/aus."
+            },
+            "ad_free": {
+                "title": "Werbefrei",
+                "description": "Keine störenden Anzeigen auf der Seite. Jetzt nicht, und auch nie."
+            }
         },
-        "stage_requirements": {
-            "military": "Militärtarnungen erfordern das schrittweise Abschließen jeder Herausforderung",
-            "special": "Sobald die Militärtarnungen freigeschaltet sind, kannst du die Spezialtarnungs-Herausforderungen für diese Waffe freischalten.",
-            "gold": "Sobald die Spezialtarnungen freigeschaltet sind, kannst du die Goldtarnungs-Herausforderung für diese Waffe freischalten.",
-            "diamond": "Nach dem Abschluss aller Goldtarnungs-Herausforderungen für eine Kategorie kannst du die Diamanttarnungs-Herausforderung für diese Waffe freischalten.",
-            "dark_spine": "Sobald du die Diamanttarnung für alle Kategorien und Waffen freigeschaltet hast, kannst du die Dark Spine Tarnungs-Herausforderung für jede Waffe freischalten.",
-            "dark_matter": "Und schließlich, nach Abschluss aller vorherigen Tarnungs-Herausforderungen, wird die Dark Matter Herausforderung freigeschaltet."
+        "open_source_description": "Erstellt mit {0}, gehostet auf {1} und analysiert durch {2}. Der Code für diese Seite ist auf {3} verfügbar.",
+        "open_source": "Open Source",
+        "previous_trackers_description": "Suchst du nach Tarn-Trackern für frühere Call of Duty Spiele seit 2019?",
+        "previous_trackers": "Frühere Tracker",
+        "subtitle": "Verfolge deinen Fortschritt zu den Tarnungen Dark Matter, Nebula und Abyss mit diesem benutzerfreundlichen Tracker.",
+        "support_me_description": "Du kannst mich unterstützen, indem du {0} 🍺, ich würde es sehr schätzen!",
+        "support_me_link": "mir ein Bier spendierst",
+        "support_me": "Unterstütze mich",
+        "title": "Einfach, leicht & intuitiv"
+    },
+    "calling_cards": {
+        "completed_in_category": "Visitenkarten in der Kategorie abgeschlossen",
+        "empty_search": "Deine Suche ergab keine Visitenkarten 🤔",
+        "finished_placeholder": "Du hast alle Visitenkarten-Herausforderungen abgeschlossen 👏"
+    },
+    "mastery": {
+        "completed_modal": {
+            "body": "Glückwunsch zum Abschluss aller Meisterschaftsherausforderungen! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
+            "support_link": "mir ein Bier zu spendieren",
+            "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
+            "title": "Meisterschaftsherausforderungen abgeschlossen 👏🥳"
         },
-        "subtitle": "Um zur nächsten Tarnungsstufe zu gelangen, musst du zuerst die vorherige Stufe freischalten:",
-        "title": "Wie schalte ich jede Tarnungsstufe frei?"
-    },
-    "title": "Wie schalte ich die Meisterschaftstarnungen frei?"
-},
-"settings": {
-    "export": {
-        "copy_to_clipboard": "In die Zwischenablage kopieren",
-        "description": "Exportiere deinen Fortschritt auf ein anderes Gerät oder in einen anderen Browser.",
-        "download_as_file": "Als Datei herunterladen",
-        "title": "Fortschritt exportieren"
-    },
-    "import": {
-        "description": "Importiere deinen Fortschritt von einem anderen Gerät oder Browser, indem du den exportierten Code einfügst oder die exportierte Datei hochlädst.",
-        "import_code": "Code importieren",
-        "import_disabled_tooltip": "Du musst oben einen Code eingeben.",
-        "import_from_file": "Aus Datei importieren",
-        "placeholder": "Code hier einfügen oder Datei unten importieren.",
-        "title": "Fortschritt importieren"
-    },
-    "reset": {
-        "confirm": {
-            "body": "Bist du sicher, dass du deinen gesamten Fortschritt zurücksetzen möchtest?",
-            "cancel": "Abbrechen",
-            "reset": "Zurücksetzen",
-            "title": "Gesamten Fortschritt zurücksetzen"
-        },
-        "description": "Diese Aktion setzt deinen gesamten Fortschritt zurück und startet bei Null.",
-        "reset_my_progress": "Meinen Fortschritt zurücksetzen",
-        "title": "Gesamten Fortschritt zurücksetzen",
-        "warning": "Diese Aktion ist unwiderruflich, wenn du deinen Fortschritt nicht exportiert hast."
-    },
-    "weapon_completion": {
-        "title": "Waffenabschluss",
-        "description": "Wähle, welche Tarnung als abgeschlossen für jede Waffe betrachtet werden soll. Dies ist nützlich, wenn du deinen Fortschritt zu einer bestimmten Tarnungsstufe verfolgen möchtest, z. B. wenn du deinen Fortschritt stufenweise bis zum Endziel und nicht nur bis zur letzten Stufe verfolgen möchtest.",
-        "label": "Waffenabschluss-Stufe",
-        "options": {
-            "1": "Gold / Mythisches Gold / Goldtiger",
-            "2": "Diamant / Opal / Königslösegeld",
-            "3": "Dark Spine / Nachleben / Katalysator",
-            "4": "Dark Matter / Nebula / Abyss"
+        "info": "Sobald du jede Meisterschaftstarnung freigeschaltet hast, wird eine Meisterschaftsherausforderung freigeschaltet, die eine bestimmte Anzahl von Abschüssen mit der jeweiligen Tarnung erfordert, um sie abzuschließen.",
+        "progress": {
+            "label": "Fortschritt der Meisterschaft",
+            "tooltip": "Fortschritt zum Abschluss aller Meisterschaftsherausforderungen"
         }
-    }
-},
-"warzone": {
-    "completed_modal": {
-        "body": "Glückwunsch zum Abschluss aller Warzone-Tarnungen! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
-        "support_link": "mir ein Bier zu spendieren",
-        "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
-        "title": "Warzone-Tarnungen abgeschlossen 👏🥳"
     },
-    "progress": {
-        "label": "Abyss-Fortschritt",
-        "tooltip": "Fortschritt zum Abschluss aller Warzone-Tarnungen"
-    }
-},
-"multiplayer": {
-    "completed_in_category": "Waffen in der Kategorie abgeschlossen",
-    "completed_modal": {
-        "body": "Glückwunsch zum Abschluss des Dark Matter-Tarnungsgrinds! Es war ein langer Weg! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
-        "support_link": "mir ein Bier zu spendieren",
-        "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
-        "title": "Mehrspieler-Tarnungen abgeschlossen! 👏🥳"
+    "requirements": {
+        "checklist": {
+            "military": "Militärtarnungen auf 33 Waffen",
+            "special": "Spezialtarnungen auf 33 Waffen",
+            "gold": "Goldtarnung auf 33 Waffen",
+            "diamond": "Diamanttarnung auf 33 Waffen",
+            "dark_spine": "Dark-Spine-Tarnung auf 33 Waffen"
+        },
+        "description": "Um eine Meisterschaftstarnung freizuschalten, musst du die vorherige Tarnungsstufe freischalten. Um beispielsweise die Dark Matter Tarnung freizuschalten, müssen folgende Anforderungen erfüllt sein: {checklist} Mit dem Fortschritt durch die Tarnungsstufen schaltest du die nächste Stufe frei:",
+        "stages": {
+            "military": "Militär",
+            "special": "Spezial",
+            "gold": "Gold",
+            "diamond": "Diamant",
+            "dark_spine": "Dark Spine",
+            "dark_matter": "Dark Matter"
+        },
+        "table": {
+            "headers": {
+                "requirement": "Anforderung",
+                "stage": "Stufe"
+            },
+            "stage_requirements": {
+                "military": "Militärtarnungen erfordern das schrittweise Abschließen jeder Herausforderung",
+                "special": "Sobald die Militärtarnungen freigeschaltet sind, kannst du die Spezialtarnungs-Herausforderungen für diese Waffe freischalten.",
+                "gold": "Sobald die Spezialtarnungen freigeschaltet sind, kannst du die Goldtarnungs-Herausforderung für diese Waffe freischalten.",
+                "diamond": "Nach dem Abschluss aller Goldtarnungs-Herausforderungen für eine Kategorie kannst du die Diamanttarnungs-Herausforderung für diese Waffe freischalten.",
+                "dark_spine": "Sobald du die Diamanttarnung für alle Kategorien und Waffen freigeschaltet hast, kannst du die Dark Spine Tarnungs-Herausforderung für jede Waffe freischalten.",
+                "dark_matter": "Und schließlich, nach Abschluss aller vorherigen Tarnungs-Herausforderungen, wird die Dark Matter Herausforderung freigeschaltet."
+            },
+            "subtitle": "Um zur nächsten Tarnungsstufe zu gelangen, musst du zuerst die vorherige Stufe freischalten:",
+            "title": "Wie schalte ich jede Tarnungsstufe frei?"
+        },
+        "title": "Wie schalte ich die Meisterschaftstarnungen frei?"
     },
-    "double_click_category_tooltip": "Doppelklicken, um die Kategorie als abgeschlossen zu markieren",
-    "double_click_tooltip": "Doppelklicken, um die Waffe zu {state}",
-    "finished_placeholder": "Du hast alle Tarnungsherausforderungen abgeschlossen 👏",
-    "info_link": "hier",
-    "info_tooltip": "Du musst nur die Anzahl der Basiswaffen für jede Kategorie abschließen, um die geschmiedete Tarnungsherausforderung zu verdienen. Zum Beispiel erfordert das Sturmgewehr insgesamt 6 vergoldete Tarnungen, um die geschmiedete Tarnungsherausforderung für alle Waffen in dieser Kategorie freizuschalten. Klicke auf dieses Symbol, um mehr zu erfahren.",
-    "info": "Du musst nur die Anzahl der Basiswaffen für jede Kategorie abschließen, um die geschmiedete Tarnungsherausforderung zu verdienen. Zum Beispiel erfordert das Sturmgewehr insgesamt 6 vergoldete Tarnungen, um die geschmiedete Tarnungsherausforderung für alle Waffen in dieser Kategorie freizuschalten. Mehr dazu {link}.",
-    "progress": {
-        "label": "Fortschritt Dark Matter",
-        "tooltip": "Fortschritt zum Abschluss aller Mehrspieler-Tarnungen"
-    }
-},
-"zombies": {
-    "completed_modal": {
-        "body": "Glückwunsch zum Abschluss des Nebula-Tarnungsgrinds! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
-        "support_link": "mir ein Bier zu spendieren",
-        "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
-        "title": "Zombie-Tarnungen abgeschlossen 👏🥳"
+    "settings": {
+        "export": {
+            "copy_to_clipboard": "In die Zwischenablage kopieren",
+            "description": "Exportiere deinen Fortschritt auf ein anderes Gerät oder in einen anderen Browser.",
+            "download_as_file": "Als Datei herunterladen",
+            "title": "Fortschritt exportieren"
+        },
+        "import": {
+            "description": "Importiere deinen Fortschritt von einem anderen Gerät oder Browser, indem du den exportierten Code einfügst oder die exportierte Datei hochlädst.",
+            "import_code": "Code importieren",
+            "import_disabled_tooltip": "Du musst oben einen Code eingeben.",
+            "import_from_file": "Aus Datei importieren",
+            "placeholder": "Code hier einfügen oder Datei unten importieren.",
+            "title": "Fortschritt importieren"
+        },
+        "reset": {
+            "confirm": {
+                "body": "Bist du sicher, dass du deinen gesamten Fortschritt zurücksetzen möchtest?",
+                "cancel": "Abbrechen",
+                "reset": "Zurücksetzen",
+                "title": "Gesamten Fortschritt zurücksetzen"
+            },
+            "description": "Diese Aktion setzt deinen gesamten Fortschritt zurück und startet bei Null.",
+            "reset_my_progress": "Meinen Fortschritt zurücksetzen",
+            "title": "Gesamten Fortschritt zurücksetzen",
+            "warning": "Diese Aktion ist unwiderruflich, wenn du deinen Fortschritt nicht exportiert hast."
+        },
+        "weapon_completion": {
+            "title": "Waffenabschluss",
+            "description": "Wähle, welche Tarnung als abgeschlossen für jede Waffe betrachtet werden soll. Dies ist nützlich, wenn du deinen Fortschritt zu einer bestimmten Tarnungsstufe verfolgen möchtest, z. B. wenn du deinen Fortschritt stufenweise bis zum Endziel und nicht nur bis zur letzten Stufe verfolgen möchtest.",
+            "label": "Waffenabschluss-Stufe",
+            "options": {
+                "1": "Gold / Mythisches Gold / Goldtiger",
+                "2": "Diamant / Opal / Königslösegeld",
+                "3": "Dark Spine / Nachleben / Katalysator",
+                "4": "Dark Matter / Nebula / Abyss"
+            }
+        }
     },
-    "progress": {
-        "label": "Nebula-Fortschritt",
-        "tooltip": "Fortschritt zum Abschluss aller Zombie-Tarnungen"
+    "warzone": {
+        "completed_modal": {
+            "body": "Glückwunsch zum Abschluss aller Warzone-Tarnungen! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
+            "support_link": "mir ein Bier zu spendieren",
+            "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
+            "title": "Warzone-Tarnungen abgeschlossen 👏🥳"
+        },
+        "progress": {
+            "label": "Abyss-Fortschritt",
+            "tooltip": "Fortschritt zum Abschluss aller Warzone-Tarnungen"
+        }
+    },
+    "multiplayer": {
+        "completed_in_category": "Waffen in der Kategorie abgeschlossen",
+        "completed_modal": {
+            "body": "Glückwunsch zum Abschluss des Dark Matter-Tarnungsgrinds! Es war ein langer Weg! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
+            "support_link": "mir ein Bier zu spendieren",
+            "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
+            "title": "Mehrspieler-Tarnungen abgeschlossen! 👏🥳"
+        },
+        "double_click_category_tooltip": "Doppelklicken, um die Kategorie als abgeschlossen zu markieren",
+        "double_click_tooltip": "Doppelklicken, um die Waffe zu {state}",
+        "finished_placeholder": "Du hast alle Tarnungsherausforderungen abgeschlossen 👏",
+        "info_link": "hier",
+        "info_tooltip": "Du musst nur die Anzahl der Basiswaffen für jede Kategorie abschließen, um die geschmiedete Tarnungsherausforderung zu verdienen. Zum Beispiel erfordert das Sturmgewehr insgesamt 6 vergoldete Tarnungen, um die geschmiedete Tarnungsherausforderung für alle Waffen in dieser Kategorie freizuschalten. Klicke auf dieses Symbol, um mehr zu erfahren.",
+        "info": "Du musst nur die Anzahl der Basiswaffen für jede Kategorie abschließen, um die geschmiedete Tarnungsherausforderung zu verdienen. Zum Beispiel erfordert das Sturmgewehr insgesamt 6 vergoldete Tarnungen, um die geschmiedete Tarnungsherausforderung für alle Waffen in dieser Kategorie freizuschalten. Mehr dazu {link}.",
+        "progress": {
+            "label": "Fortschritt Dark Matter",
+            "tooltip": "Fortschritt zum Abschluss aller Mehrspieler-Tarnungen"
+        }
+    },
+    "zombies": {
+        "completed_modal": {
+            "body": "Glückwunsch zum Abschluss des Nebula-Tarnungsgrinds! Das ist eine echte Leistung! Du hast begonnen, deinen Fortschritt hier zu verfolgen {duration} am {date}.",
+            "support_link": "mir ein Bier zu spendieren",
+            "support": "Wenn dir dieser Tracker gefällt, zeige deine Wertschätzung, indem du darüber sprichst, und wenn du großzügig bist, kannst du {0} als Dankeschön in Betracht ziehen. Hoffentlich sehe ich dich auf dem Schlachtfeld! Prost! 🍺",
+            "title": "Zombie-Tarnungen abgeschlossen 👏🥳"
+        },
+        "progress": {
+            "label": "Nebula-Fortschritt",
+            "tooltip": "Fortschritt zum Abschluss aller Zombie-Tarnungen"
+        }
     }
 }
